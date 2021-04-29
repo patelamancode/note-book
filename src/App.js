@@ -15,7 +15,7 @@ class App extends React.Component {
 
   render(){
     return(
-      <div>Hellooo world</div>
+      <div>Hello aman patel</div>
     );
 
     // componentDidMount = () => {
