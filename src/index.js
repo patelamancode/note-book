@@ -21,7 +21,7 @@ require('firebase/firestore');
       measurementId: "G-2WGZ7LZDGK"
     };
 
-
+// initiallize app
   firebase.initializeApp(firebaseConfig);
 
 
